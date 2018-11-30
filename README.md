@@ -1,6 +1,6 @@
 
 ## 安装步骤
-- git clone  https://github.com/github-muzilong/laravel55-layuiadmin.git
+- git clone  https://github.com/github-muzilong/yii2-layuiadmin.git
 - c配置common/config/里的数据库连接信息
 - composer update
 - yii migrate  这一步是创建admin用户表
